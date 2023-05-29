@@ -1,0 +1,43 @@
+body { background-image: url("car.png"); }
+ul {
+    list-style-type: none;
+    margin: -10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #161515;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    }
+   p.t{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;  
+    color: white;
+   }
+    ul.t{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }  
+    ul.t {
+        list-style-type: none;
+        background-color: #161515;
+      }
+      H1{
+        color: white;
+      }
+      H1{
+        
+        margin: 600px;
+        color: red;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size:80px;
+      }
